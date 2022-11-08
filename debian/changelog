@@ -1,3 +1,21 @@
+pi-top-os-apt (2022.1.9) bullseye; urgency=medium
+
+  * Update README.md (#10)
+  * Add pull request template
+  * Update PR template to track Github issues
+  * Non-stable packages depend on more-stable ones (#12)
+  * New changelog entry: v2022.1.8 (#11)
+  * Updated master workflow files
+  * Updated master workflow files
+  * Add installation instructions and more information to README (#14)
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 12:55:01 +0000
+
 pi-top-os-apt (2022.1.8) bullseye; urgency=medium
 
   * Non-stable packages depend on more-stable ones (#12)
